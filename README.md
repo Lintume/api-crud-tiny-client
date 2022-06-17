@@ -5,7 +5,7 @@ Very Beginning of the good project :) Simplicity of the interface on the outside
 ###On Board:
 
 - Laravel framework v9
-- Vue.js v3 with 'composables' pattern
+- Vue.js v3 SPA with 'composables' pattern
 - RESTful JSON API
 - ORM and relationships/associations
 - Request validation
