@@ -2,7 +2,7 @@
 
 Very Beginning of the good project :) Simplicity of the interface on the outside and power on the inside.
 
-###On Board:
+### On Board:
 
 - Laravel framework v9
 - Vue.js v3 SPA with 'composables' pattern
@@ -18,7 +18,7 @@ Very Beginning of the good project :) Simplicity of the interface on the outside
 ### Installation instructions:
 - Clone project
 - Set up .env file
-- run in project directory for installing composer dependencies including sail
+- Run in project directory for installing composer dependencies including sail
 
 `docker run --rm \
 -u "$(id -u):$(id -g)" \
