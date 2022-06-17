@@ -34,5 +34,6 @@ composer install --ignore-platform-reqs
 - `sail npm install`
 - `sail npm run dev`
 - `sail test`
-- Enjoy!
+
+### Enjoy!
 
